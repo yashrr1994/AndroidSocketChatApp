@@ -1,7 +1,7 @@
 "# AndroidSocketChatApp" 
 
-use permission in menifest:-
-  <uses-permission android:name="android.permission.INTERNET" />
+use permission in menifest
+  uses-permission android:name="android.permission.INTERNET" 
 
 add dependency:-
     compile 'com.android.support:appcompat-v7:23.1.1'
